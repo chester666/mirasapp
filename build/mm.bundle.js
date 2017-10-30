@@ -66184,7 +66184,7 @@ angular.module('mm.core')
     "appname": "NU Mobile app",
     "desktopappname": "NU Mobile app",
     "versioncode" : "2020",
-    "versionname" : "3.3.2",
+    "versionname" : "0.0.1",
     "cache_expiration_time" : 300000,
     "default_lang" : "en",
     "languages": {"en": "English",  "ru": "Русский"},
@@ -66192,7 +66192,7 @@ angular.module('mm.core')
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://moodle.nu.edu.kz/",
+    "siteurl": "https://moodle.nu.edu.kz/",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
