@@ -66180,9 +66180,9 @@ angular.module('mm.addons.mod_wiki')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "kz.edu.nu.moodle",
-    "appname": "NU Mobile app",
-    "desktopappname": "NU Mobile app",
+    "app_id" : "kz.miras-astana.portal",
+    "appname": "Miras Astana app",
+    "desktopappname": "Miras Astana app",
     "versioncode" : "2020",
     "versionname" : "0.0.1",
     "cache_expiration_time" : 300000,
@@ -66192,7 +66192,7 @@ angular.module('mm.core')
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "https://moodle.nu.edu.kz/",
+    "siteurl": "http://portal.miras-astana.kz/",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
