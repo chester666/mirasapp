@@ -1,6 +1,6 @@
 {
     "app_id" : "kz.edu.nu.moodle.moodlemobile",
-    "appname": "Nazarbayev University",
+    "appname": "Miras Astana school",
     "desktopappname": "Moodle Desktop",
     "versioncode" : "2020",
     "versionname" : "0.0.1",
@@ -11,7 +11,7 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "https://moodle.nu.edu.kz/",
+    "siteurl": "https://portal.miras-astana.kz/",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
