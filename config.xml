@@ -2,13 +2,13 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "kz.edu.nu.moodle"
+        id        = "kz.miras-astana.portal"
         versionCode = "2020"
         version   = "0.0.1">
     <name>Nazarbayev University</name>
 
     <description>
-        Nazarbayev University official app
+        Miras Astana school official app
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
