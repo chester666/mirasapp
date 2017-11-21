@@ -66195,6 +66195,6 @@ angular.module('mm.core')
     "siteurl": "http://portal.miras-astana.kz/",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
-    "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
+    "privacypolicy": "http://portal.miras-astana.kz/local/staticpage/view.php?page=policy"
 }
 );
