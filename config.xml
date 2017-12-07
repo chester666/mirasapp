@@ -4,7 +4,7 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "kz.miras-astana.portal"
         versionCode = "20210"
-        version   = "0.0.1">
+        version   = "0.0.3">
     <name>Miras Astana school official app</name>
 
     <description>
@@ -16,7 +16,7 @@
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-        <string>0.0.2</string>
+        <string>0.0.3</string>
     </gap:config-file>
 
     <gap:platform name="ios" />
@@ -283,22 +283,7 @@
                   <string>public.folder</string>
                 </array>
             </dict>
-            <dict>
-                <key>CFBundleTypeName</key>
-                <string>Audio</string>
-                <key>LSHandlerRank</key>
-                <string>Alternate</string>
-                <key>LSItemContentTypes</key>
-                <array>
-                  <string>public.audio</string>
-                  <string>public.mp3</string>
-                  <string>public.mpeg-4-audio</string>
-                  <string>com.apple.protected-​mpeg-4-audio</string>
-                  <string>public.aifc-audio</string>
-                  <string>com.apple.coreaudio-​format</string>
-                  <string>public.aiff-audio</string>
-                </array>
-            </dict>
+
             <dict>
                 <key>CFBundleTypeName</key>
                 <string>Movie</string>
