@@ -3,8 +3,8 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "kz.miras-astana.portal"
-        versionCode = "20210"
-        version   = "0.0.4">
+        versionCode = "20220"
+        version   = "0.0.5">
     <name>Miras Astana school official app</name>
 
     <description>
@@ -16,7 +16,7 @@
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-        <string>0.0.4</string>
+        <string>0.0.5</string>
     </gap:config-file>
 
     <gap:platform name="ios" />
