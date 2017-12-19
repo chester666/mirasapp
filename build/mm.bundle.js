@@ -71095,8 +71095,8 @@ angular.module('mm.core')
     "app_id" : "kz.miras-astana.portal",
     "appname": "Miras Astana app",
     "desktopappname": "Miras Astana app",
-    "versioncode" : "2021",
-    "versionname" : "0.0.4",
+    "versioncode" : "2023",
+    "versionname" : "0.0.6",
     "cache_expiration_time" : 300000,
     "default_lang" : "en",
     "languages": {"en": "English","fr" : "Français", "ru": "Русский"},
@@ -71104,9 +71104,9 @@ angular.module('mm.core')
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://portal.miras-astana.kz/",
+    "siteurl": "https://portal.miras-astana.kz/",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
-    "privacypolicy": "http://portal.miras-astana.kz/local/staticpage/view.php?page=policy"
+    "privacypolicy": "https://portal.miras-astana.kz/local/staticpage/view.php?page=policy"
 }
 );
