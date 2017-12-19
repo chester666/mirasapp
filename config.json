@@ -3,7 +3,7 @@
     "appname": "Miras Astana school official app",
     "desktopappname": "Miras Astana school official app",
     "versioncode" : "2023",
-    "versionname" : "0.0.4",
+    "versionname" : "0.0.5",
     "cache_expiration_time" : 300000,
     "default_lang" : "en",
     "languages": {"en": "English","ru": "Русский","fr":"Français"},
